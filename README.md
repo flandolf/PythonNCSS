@@ -1,2 +1,4 @@
 # PythonNCSS
 School
+
+**I REALLY DO NOT KNOW HOW PYTHON WORKS OK?**
